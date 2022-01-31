@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "539524723761",
+    "project_id": "shopfriendly-bd92c",
+    "storage_bucket": "shopfriendly-bd92c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539524723761:android:12411a1eb421a02d641110",
+        "android_client_info": {
+          "package_name": "android.example.shopfriendly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539524723761-2algdm2ikmr5hcvp34ok7f5herm3tn0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.shopfriendly",
+            "certificate_hash": "a4286b73a05899074a0cf404a5445dfedc5a27f7"
+          }
+        },
+        {
+          "client_id": "539524723761-4gu20eodtsc896v316t17pbmgd7fmhp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyJj7-bV1UV60FmTo9-eXCjCINTEWis70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539524723761-4gu20eodtsc896v316t17pbmgd7fmhp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

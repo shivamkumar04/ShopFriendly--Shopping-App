@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable-v24/ic_vector_add.xml" value="0.22711111111111112" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable-v24/ic_vector_add_product.xml" value="0.22711111111111112" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable-v24/ic_vector_cart.xml" value="0.22711111111111112" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable-v24/ic_vector_chevron_right.xml" value="0.12432432432432433" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable-v24/ic_vector_remove.xml" value="0.22711111111111112" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable-v24/ic_vector_white_delete.xml" value="0.2074074074074074" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable-v24/ic_vector_white_edit.xml" value="0.20925925925925926" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable-v24/item_grey_border_background.xml" value="0.22711111111111112" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable/app_gradient_color_background.xml" value="0.22711111111111112" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable/button_background.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable/drawable_gender_tab_selector.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable/drawable_gender_tab_text_color_selector.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable/ic_black_color_back_24.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable/ic_vector_add_photo.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable/ic_vector_delete.xml" value="0.22711111111111112" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable/ic_white_color_back_24dp.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable/rv_item_image_background.xml" value="0.22685185185185186" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/drawable/user_image_background.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_add_edit_address.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_add_product.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_address_list.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_base.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_cart_list.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_checkout.xml" value="0.2" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_forgot_password.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_login.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_main.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_my_order_details.xml" value="0.20405405405405405" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_product_details.xml" value="0.2" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_register.xml" value="0.16" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_settings.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_splashactivity.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/activity_user_profile.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/dashboard_list_layout.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/dialog_progress.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/fragment_base.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/fragment_dashboard.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/fragment_home.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/fragment_notifications.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/fragment_orders.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/fragment_products.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/item_address_layout.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/item_cart_layout.xml" value="0.2" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/layout/item_list_layout.xml" value="0.2" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/menu/add_product_menu.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/menu/bottom_nav_menu.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/Desktop/My Android Projects/ShopFriendly/app/src/main/res/menu/dashboard_menu.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1265765765765766" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/drawable/app_gradient_color_background.xml" value="0.22711111111111112" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/drawable/button_background.xml" value="0.1" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/drawable/drawable_gender_tab_selector.xml" value="0.22711111111111112" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/drawable/drawable_gendertabtextcolorselector.xml" value="0.22711111111111112" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1265765765765766" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/drawable/user_image_background.xml" value="0.22711111111111112" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/layout-v23/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/layout/activity_base.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/layout/activity_forgot_password.xml" value="0.2" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/layout/activity_register.xml" value="0.16" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/layout/activity_splashactivity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/layout/activity_user_profile.xml" value="0.2" />
+        <entry key="..\:/Users/hp/ShopFriendly/app/src/main/res/layout/dialog_progress.xml" value="0.21621621621621623" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
